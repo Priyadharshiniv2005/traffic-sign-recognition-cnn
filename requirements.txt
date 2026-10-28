@@ -1,11 +1,10 @@
-﻿# Requirements for Traffic Sign Recognition Using CNN
-# Use Python 3.11 or 3.12 (TensorFlow stable not supported on Python 3.14)
+﻿# Use Python 3.12
 
-tensorflow
-keras
-numpy
+tensorflow==2.16.1
+keras==3.0.5
+numpy==1.26.4
 pandas
-opencv-python
+opencv-python-headless==4.10.0.84
 Pillow
 scikit-learn
 matplotlib
